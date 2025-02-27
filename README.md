@@ -49,7 +49,7 @@
  
  <img align="right" src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="200" />
 
-![](https://github-contributor-stats.vercel.app/api?username=iam-Adithya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](#https://github-contributor-stats.vercel.app/api?username=iam-Adithya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=iam-Adithya&icon=7&color=4)](https://visitcount.itsvg.in)
 
